@@ -1,6 +1,17 @@
 # dictionary-app
 
-## Project setup
+## Live Demo
+[https://optimistic-tereshkova-674fd7.netlify.app/](https://optimistic-tereshkova-674fd7.netlify.app/)
+
+### Tech Stack
+```
+Vue
+Bootstrap-Vue
+Axios
+[Dictionary API](https://dictionaryapi.dev/)
+```
+
+### Project setup
 ```
 npm install
 ```
