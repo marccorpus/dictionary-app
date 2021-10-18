@@ -3,6 +3,9 @@
 ## Live Demo
 [https://optimistic-tereshkova-674fd7.netlify.app/](https://optimistic-tereshkova-674fd7.netlify.app/)
 
+### Screenshot
+![Dictionary-App](https://user-images.githubusercontent.com/23694053/137656296-c74629ee-a7e7-4c50-a840-3e93a1792f4c.png)
+
 ### Tech Stack
 ```
 Vue
